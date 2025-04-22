@@ -4,3 +4,4 @@ soundfile
 numpy
 SpeechRecognition
 scipy
+streamlit-webrtc
